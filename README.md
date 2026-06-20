@@ -1,2 +1,14 @@
 # bsports-cn-notes
-HTML page archive and documentation
+
+自动页面托管记录
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
